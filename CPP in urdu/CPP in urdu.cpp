@@ -1,7 +1,4 @@
 ﻿#include <iostream>
-#include <locale>
-#include <clocale>
-#include <codecvt>
 #include"Header1.h"
 
 استعمال;
@@ -12,7 +9,6 @@
 {
     شماریہ i;
     شماریہ اختیار = 0;
-    urdu_output();
     داخله i;
     شماریہ j, k,temp;
     j = 0;

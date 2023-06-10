@@ -5,11 +5,6 @@
 #include"Header1.h"
 
 استعمال;
-auto urdu = U"شماریہ داخل کریں";
-void urdu_output() {
-    wstring_convert<codecvt_utf8<char32_t>, char32_t> converter;
-    باہر (urdu) << اختتام
-}
 
 شماریہ شروع;
 
@@ -19,7 +14,6 @@ void urdu_output() {
     شماریہ اختیار = 0;
     urdu_output();
     داخله i;
-    باہر"Fibonacci Sequence" << اختتام
     شماریہ j, k,temp;
     j = 0;
     k = 1;
